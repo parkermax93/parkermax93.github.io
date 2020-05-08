@@ -1,11 +1,11 @@
 # Site settings
 author: Parker Williamson
-title: 
+title: Parker's Blog
 header-img: img/home-bg.png
 email: parker.williamson@gmail.com
 copyright_name: Parker Williamson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron School Software Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  parkermax93
