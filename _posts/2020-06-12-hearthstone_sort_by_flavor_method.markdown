@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Hearthstone sort_by_flavor Method"
-date:       2020-06-12 22:19:51 +0000
+title:      "Hearthstone sortbyflavor Method"
+date:       2020-06-12 18:19:52 -0400
 permalink:  hearthstone_sort_by_flavor_method
 ---
 
